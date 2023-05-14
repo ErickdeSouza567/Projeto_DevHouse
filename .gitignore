@@ -1,5 +1,4 @@
 /node_modules
-/uploads/*
 nodemon.json
 package-lock.json
 yarn-error.log
